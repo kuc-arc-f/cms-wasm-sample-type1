@@ -211,7 +211,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// LibPaginate\n//\n/* harmon
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// LibSystem\n//import LibCommon from '@/libs/LibCommon';\n//\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  get_config: function get_config() {\n    return {\n      SYS_VERSION: \"0.9.2\"\n    };\n  }\n});\n\n//# sourceURL=webpack:///./src/libs/LibSystem.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n// LibSystem\n//import LibCommon from '@/libs/LibCommon';\n//\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  get_config: function get_config() {\n    return {\n      SYS_VERSION: \"0.9.3\"\n    };\n  }\n});\n\n//# sourceURL=webpack:///./src/libs/LibSystem.js?");
 
 /***/ })
 
